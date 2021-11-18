@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chiararedeffe
 - 👀 I’m interested in graphic design
 - 🌱 I’m currently learning how to be a graphic designer and animator
-- 💞️ I’m looking to collaborate on a videogame 
+- 💞️ I’m looking to collaborate on a website 
 - 📫 How to reach me: ig=chiararedeffe
 
 <!---
